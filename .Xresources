@@ -1,0 +1,7 @@
+xterm*renderFont: true
+xterm*faceName: Meslo LG S for Powerline
+xterm*faceSize: 9
+
+xterm*selectToClipboard: true
+*customization: -color
+XTerm*termName:  xterm-256color
