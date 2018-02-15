@@ -95,7 +95,7 @@ lts = awful.layout.suit
 tags = {}
 for s = 1, screen.count() do
     -- Each screen has its own tag table.
-    tags[s] = awful.tag({ 'â', 'â', 'â¢', 'Ï', 'Îµ', 'âª', 'â', 'â', 'â' }, s, { lts.max.fullscreen, lts.tile, lts.tile, lts.tile, lts.floating, lts.floating, lts.floating, lts.floating, lts.floating })
+    tags[s] = awful.tag({ '1', '2', '3', '4', '5', '6', '7', '8', '9' }, s, { lts.max.fullscreen, lts.tile, lts.tile, lts.tile, lts.floating, lts.floating, lts.floating, lts.floating, lts.floating })
 end
 -- }}}
 
